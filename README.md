@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cyrille</h1>
-<h3 align="center">A passionate Laravel and Flutter developer from Togo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrillevalentin&label=Profile%20views&color=0e75b6&style=flat" alt="cyrillevalentin" /> </p>
 
