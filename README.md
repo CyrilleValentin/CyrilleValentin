@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter,Next.js,Web3 and Smart Contracts**
 
-- 📫 How to reach me **cyrillekyrillos6@gmail.com**
+- 📫 How to reach me **contact@cyri0x.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
