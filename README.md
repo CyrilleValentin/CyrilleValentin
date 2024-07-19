@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrillevalentin" alt="cyrillevalentin" /></a> </p>
 
-- 🔭 I’m currently working on **Real World Assets System**
+- 🔭 I’m currently working on **decentralization of the energy market**
 
 - 🌱 I’m currently learning **Flutter,Next.js,Web3 and Smart Contracts**
 
