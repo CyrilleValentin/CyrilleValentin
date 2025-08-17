@@ -4,11 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrillevalentin" alt="cyrillevalentin" /></a> </p>
 
-- 🔭 I’m currently working on **decentralization of the energy market**
-
 - 🌱 I’m currently learning **Flutter,Next.js,Web3 and Smart Contracts**
 
-- 📫 How to reach me **contact@cyri0x.me**
+- 📫 How to reach me **cyrillekyrillos6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
