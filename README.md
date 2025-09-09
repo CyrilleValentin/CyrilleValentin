@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Cyrille Valentin</h1>
-<h3 align="center">Full Stack developer</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrillevalentin&label=Profile%20views&color=0e75b6&style=flat" alt="cyrillevalentin" /> </p>
+# Hi 👋, I'm Cyrille Valentin
+**Full-Stack Engineer**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrillevalentin" alt="cyrillevalentin" /></a> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=cyrillevalentin&label=Profile%20views&color=0e75b6&style=flat)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cyrillevalentin-0a66c2?logo=linkedin)](https://linkedin.com/in/cyrillevalentin)
+[![Email](https://img.shields.io/badge/Email-cyrillekyrillos6%40gmail.com-red?logo=gmail)](mailto:cyrillekyrillos6@gmail.com)
 
-- 🔭 I’m currently working on [YomLink](yomlink.com)
+</div>
 
-- 📫 How to reach me **cyrillekyrillos6@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cyrillevalentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrillevalentin" height="30" width="40" /></a>
-</p>
+## About me
+- 🔭 Currently building **[YomLink](https://yomlink.com)**  
+- 🧰 I design, ship and run products end-to-end (frontend, backend)  
+- ✉️ Reach me: **cyrillekyrillos6@gmail.com**
 
+---
 
-<h3 align="left">🎧 Now Playing</h3>
-<p align="left">
+## 🎧 Now Playing
+<p align="center">
   <a href="https://open.spotify.com/user/usrb3perzxkjqhq880resowm9" target="_blank" rel="noreferrer">
-    <img src="https://novatorem-qqtz9eb7y-cyrilles-projects-83e234c4.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=usrb3perzxkjqhq880resowm9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrillevalentin&show_icons=true&locale=en&layout=compact" alt="cyrillevalentin" /></p>
+## 🧩 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,nodejs,postgres,redis,docker,git,githubactions,tailwind&theme=dark" alt="Tech stack icons" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrillevalentin&show_icons=true&locale=en" alt="cyrillevalentin" /></p>
+---
+
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cyrillevalentin&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrillevalentin&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+<!-- Optional: Trophies (dans un collapsible pour rester clean) -->
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=cyrillevalentin&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="cyrillevalentin trophies" />
+    </a>
+  </p>
+</details>
