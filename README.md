@@ -30,7 +30,7 @@
 
 ## 🧩 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,fastapi,nodejs,postgres,redis,docker,git,githubactions,tailwind&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,react,nextjs,laravel,flutter,mysql,nodejs,postgres,redis,docker,git,tailwind&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
