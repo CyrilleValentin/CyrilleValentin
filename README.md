@@ -14,6 +14,15 @@
 <a href="https://linkedin.com/in/cyrillevalentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrillevalentin" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="left">🎧 Now Playing</h3>
+<p align="left">
+  <a href="https://open.spotify.com/user/usrb3perzxkjqhq880resowm9" target="_blank" rel="noreferrer">
+    <img src="https://novatorem-qqtz9eb7y-cyrilles-projects-83e234c4.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrillevalentin&show_icons=true&locale=en&layout=compact" alt="cyrillevalentin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrillevalentin&show_icons=true&locale=en" alt="cyrillevalentin" /></p>
